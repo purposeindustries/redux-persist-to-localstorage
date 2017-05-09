@@ -1,6 +1,6 @@
 {
   "name": "redux-persist-to-localstorage",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Redux store enhancer for adding localStorage persistance",
   "main": "index.js",
   "scripts": {
